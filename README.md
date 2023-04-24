@@ -4,3 +4,4 @@ my first website
 
 oppskrift UI: 
 (https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/)
+oppskrift totalt: https://github.com/Morgenstern2573/wordle_clone
